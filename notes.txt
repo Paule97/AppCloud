@@ -1,0 +1,1 @@
+Laut Amazon gestaltet DynamoDB das Speichern und Abrufen einer beliebigen Datenmenge einfach und kosteneffizient. DynamoDB soll jedes beliebige Traffic-Level bedienen. Alle Datenelemente werden auf Solid-State Drives (SSDs) gespeichert und über drei Availability Zones repliziert, um eine hohe Verfügbarkeit und Langlebigkeit zu gewährleisten.
